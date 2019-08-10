@@ -1,0 +1,41 @@
+#board button,
+td {
+  padding: 5px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  border: 3px solid white;
+  background-color: rgb(10, 9, 0);
+
+}
+
+.yo {
+
+  background-color: yellow;
+}
+
+#button {
+  color: aliceblue;
+  background-color: rgb(10, 9, 0);
+  border-style: groove;
+  border-color: azure;
+  border-width: 3px;
+  height: 50px;
+  width: 150px;
+  font-size: 30px;
+}
+
+
+
+.refresh {
+  padding-right: 25%;
+  padding-left: 25%;
+}
+
+.refresh span {
+  padding: 50px;
+}
+
+body {
+  background-color: rgba(221, 236, 9, 0.932)
+}
